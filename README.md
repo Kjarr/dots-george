@@ -14,33 +14,18 @@ You may want to change vsync or refresh rate option in picom. I have shadows dis
 I use i3lock & betterlockscreen in place of a logindm. The power menu will call to a betterlockscreen script.
 
 
-## individual screens
+## things I forgot 
 
-
-## polybar
-![image](george/screens/polybar-screens/polybar-reddit-screen.png)
 
 ## css
 ![image](george/screens/window-screens/css.png)
 
-## discord
-![image](george/screens/window-screens/discord.png)
-
-## nvim ranger neofetch htop
-![image](george/screens/window-screens/nvim%20ranger%20neofetch%20htop.png)
-
-## qutebrowser ungoogled-chromium
-![image](george/screens/window-screens/qutebrowser%20ungoogled-chromium.png)
-
-## sublime kitty zathura
-![image](george/screens/window-screens/sublime%20kitty%20zathura.png)
-
-## sublime kitty
-![image](george/screens/window-screens/sublime%20kitty.png)
-
 ## thunar
 ![image](george/screens/window-screens/thunar.png)
 
+## pomotroid
+
+![image](george/screens/window-screens/pomotroid.png)
 
 
 
