@@ -1,6 +1,7 @@
 ## hi, I'm LetsHaveKiddos and these are my arch linux i3 dotfiles for a cat named George.
 
 I highly recommend using redshift with your theme or using some kind of blue light filter. It's a light theme, protect those eye balls!
+
 i3's borders are somewhat crucial. I'm not sure if other window managers allow for creating borders on the fly but 1 px border with this color #201723 is how I have my i3 conf setup. 
 
 ## overview
