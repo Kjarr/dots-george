@@ -4,13 +4,17 @@ I highly recommend using redshift with your theme or using some kind of blue lig
 
 i3's borders are somewhat crucial. I'm not sure if other window managers allow for creating borders on the fly but 1 px border with this color #201723 is how I have my i3 conf setup. 
 
+Picom isnt' really required here but I do have fading enabled. /shrug
+
+## Optional
+
+Picom (aur/picom-ibhagwan-git or archcraft/picom-ibhagwan-git)****
+
 ## Requirements
 
 Kitty (terminal emulator with gpu acceleration)
 
 Dunst 
-
-Picom (aur/picom-ibhagwan-git or archcraft/picom-ibhagwan-git)
 
 Polybar
 
