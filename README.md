@@ -42,11 +42,11 @@ I use i3lock & betterlockscreen in place of a logindm. The power menu will call 
 
 
 ## css
-![image](george/screens/window-screens/css.png)
+![image](/screens/window-screens/css.png)
 
 ## thunar
-![image](george/screens/window-screens/thunar.png)
+![image](/screens/window-screens/thunar.png)
 
 ## pomotroid
 
-![image](george/screens/window-screens/pomotroid.png)
+![image](/screens/window-screens/pomotroid.png)
