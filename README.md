@@ -4,6 +4,17 @@ I highly recommend using redshift with your theme or using some kind of blue lig
 
 i3's borders are somewhat crucial. I'm not sure if other window managers allow for creating borders on the fly but 1 px border with this color #201723 is how I have my i3 conf setup. 
 
+## Requirements
+
+Kitty (terminal emulator with gpu acceleration)
+Dunst 
+Picom (aur/picom-ibhagwan-git or archcraft/picom-ibhagwan-git)
+Polybar
+Rofi 
+Nerd Fonts Complete Mono (aur/nerd-fonts-complete-mono-glyphs) Required by polybar, feel free to change fonts, I just really like dejavu sans. 
+
+edit: if requested I can upload colorscheme for alacritty as well or most/all terminals. 
+
 ## overview
 ![image](https://github.com/LetsHaveKiddos/dots-george/blob/main/george/screens/reddit-screens/reddit-screen.png)
 
