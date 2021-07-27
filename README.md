@@ -1,6 +1,7 @@
 ## hi, I'm LetsHaveKiddos and these are my arch linux i3 dotfiles for a cat named George.
 
-## screens
+I highly recommend using redshift with your theme or using some kind of blue light filter. It's a light theme, protect those eye balls!
+
 
 ## overview
 ![image](https://github.com/LetsHaveKiddos/dots-george/blob/main/george/screens/reddit-screens/reddit-screen.png)
