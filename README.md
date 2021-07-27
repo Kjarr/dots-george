@@ -10,6 +10,8 @@ I highly recommend using redshift with your theme or using some kind of blue lig
 
 ## NOTES
 
+## I highly recommend using redshift with your theme or using some kind of blue light filter. It's a light theme, protect those eye balls!
+
 You may want to change vsync or refresh rate option in picom. I have shadows disabled in this particular rice because it felt more cohesive --kind of pen and paper-esque. Just felt right. Feel free to tinker to your likings however.
 
 I use i3lock & betterlockscreen in place of a logindm. The power menu will call to a betterlockscreen script.
