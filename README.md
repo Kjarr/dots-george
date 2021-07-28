@@ -16,6 +16,8 @@ Kitty (terminal emulator with gpu acceleration)
 
 Dunst 
 
+BetterDiscord
+
 Polybar
 
 Rofi 
